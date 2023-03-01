@@ -54,3 +54,13 @@ Escreva um programa que inverta os caracteres de um string.
 2. Evite usar funções prontas, como, por exemplo, reverse;
 
 ---
+
+## Respostas
+
+- As respostas encontram-se nas pastas correspondentes às atividades
+- Baixar ou copiar os arquivos
+- Abrir o arquivo index.html dentro de cada pasta com o navegador web
+- Ctrl+shif+i ou clicar com o botão direito do mouse na tela e selecionar inspecionar
+- Aba Console exibirá as repostas
+
+---
